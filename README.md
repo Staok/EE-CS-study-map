@@ -55,19 +55,30 @@ CS 学习 / C/C++ 进阶 / 系统
 
 包含非常丰富，涵盖基础编程语言特性，数据结构与算法，开发模式，计算机组成原理、计算机系统、计算机网络/TCP-IP、编译原理 等等
 
-[Your list / CS 学习 / C/C++ 进阶 / 系统 (github.com)](https://github.com/stars/Staok/lists/cs-学习-c-c-进阶-系统)
+[Your list / CS 学习 / C/C++ 进阶 / 系统 (github.com)](https://github.com/stars/Staok/lists/cs-学习-c-c-进阶-系统)。
 
 
 
 实用库 / 实现（总结很多非常实用，工程可用的，各种库）
 
-[Your list / 实用库 / 实现 (github.com)](https://github.com/stars/Staok/lists/实用库-实现)
+[Your list / 实用库 / 实现 (github.com)](https://github.com/stars/Staok/lists/实用库-实现)。
 
 
 
 嵌入式项目 / 协议栈 / 库
 
-[Your list / 嵌入式项目 / 协议栈 / 库 (github.com)](https://github.com/stars/Staok/lists/嵌入式项目-协议栈-库)
+[Your list / 嵌入式项目 / 协议栈 / 库 (github.com)](https://github.com/stars/Staok/lists/嵌入式项目-协议栈-库)。
+
+
+
+CS学习综合贴
+
+[imarvinle/CSGuide: 🔥 计算机学习路线，包括科班、非科班、Web、全栈、C++、Java、System等 (github.com)](https://github.com/imarvinle/CSGuide)。
+
+- [计算机学习路线大全（2024版） | 编程指北 (csguide.cn)](https://csguide.cn/roadmap/)。
+- [C/C++后台开发面试重点知识 | 编程指北 (csguide.cn)](https://csguide.cn/cpp/)。
+
+
 
 
 
@@ -76,6 +87,12 @@ CS 学习 / C/C++ 进阶 / 系统
 
 
 一些专项的、有意思的视频合集
+
+
+
+github star 精品库，包含嵌入式综合、linux综合、AI综合、github rank、全栈学习综合贴等等
+
+[Your list / ~综合贴类~ (github.com)](https://github.com/stars/Staok/lists/综合贴类)。
 
 
 
