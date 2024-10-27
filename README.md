@@ -92,7 +92,7 @@ CS学习综合贴
 
 github star 精品库，包含嵌入式综合、linux综合、AI综合、github rank、全栈学习综合贴等等
 
-[Your list / ~综合贴类~ (github.com)](https://github.com/stars/Staok/lists/综合贴类)。
+[Your list / 嵌入式 / AI / 全栈 综合贴 (github.com)](https://github.com/stars/Staok/lists/嵌入式-ai-全栈-综合贴)。
 
 
 
