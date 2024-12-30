@@ -4,7 +4,35 @@
 
 
 
-先来个心理学、哲学上的 程序员 的学习分析
+## Misc
+
+计算机、数字世界的一些通识
+
+[criwits/missing-web: 你缺失的那门计算机课（网页版）| Your Missing Semester of Using Computer (Web Version) (github.com)](https://github.com/criwits/missing-web)。
+
+
+
+计算机教育中缺失的一课
+
+[为什么大学c语言课不顺便教一下Linux，Makefile，git，gdb等配套工具链呢? - 知乎 (zhihu.com)](https://www.zhihu.com/question/576758408/answer/2830758012)。
+
+[计算机教育中缺失的一课 · the missing semester of your cs education (missing-semester-cn.github.io)](https://missing-semester-cn.github.io/)。
+
+> 1/13: 课程概览与 shell
+> 1/14: Shell 工具和脚本
+> 1/15: 编辑器 (Vim)
+> 1/16: 数据整理
+> 1/21: 命令行环境
+> 1/22: 版本控制(Git)
+> 1/23: 调试及性能分析
+> 1/27: 元编程
+> 1/28: 安全和密码学
+> 1/29: 大杂烩
+> 1/30: 提问&回答
+
+
+
+心理学、哲学上的 程序员 的学习分析
 
 [你认为哪些领域的知识对程序员来说特别重要？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/5392270023/answer/46161501985)。
 
@@ -35,8 +63,6 @@
 这个路线是我截止到硕士毕业的阶段性的总结。
 
 具体的路线网上有很多，路线可参考的就有：
-
-- 
 
 - [Linux嵌入式所有知识点-思维导图-【一口君吐血奉献】 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247497822&idx=1&sn=1e2aed9294f95ae43b1ad057c2262980&chksm=f96b8aaace1c03bc2c9b0c3a94c023062f15e9ccdea20cd76fd38967b8f2eaad4dfd28e1ca3d&scene=21#wechat_redirect)。
 - [嵌入式驱动工程师学习路线【建议收藏】 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247496985&idx=1&sn=c3d5e8406ff328be92d3ef4814108cd0&chksm=f96b87edce1c0efb6f60a6a0088c714087e4a908db1938c44251cdd5175462160e26d50baf24&scene=21#wechat_redirect)。
@@ -81,7 +107,7 @@
 
   [Staok/ARM-Linux-Study: ARM Linux 的学习历程。包括应用、驱动、设备树，GCC, Make, CMake, Bash, Vim, Git 等等大集合内容。文章遵守 CC BY NC SA 4.0 协议。 (github.com)](https://github.com/Staok/ARM-Linux-Study)。
 
-- buildroot（暂在此文做资料补充）
+- 待补充新篇章（见下面 `补充` 一节）
 
 
 
@@ -167,7 +193,12 @@ CS / C/C++ / 系统 / 综合
 
 ##### 可以快速刷着看的
 
+- 简明教程 [C++ Beginner's Guide for Python/Java/... Programmers | hacking C++ (hackingcpp.com)](https://hackingcpp.com/cpp/beginners_guide.html#intro)
+
+  这个推荐刷完
+
 - **对于 C 语言特性的精品汇总**
+  
   - [Knowledge-Notes/2 - C语言笔记 at master · wuxiaolie/Knowledge-Notes (github.com)](https://github.com/wuxiaolie/Knowledge-Notes/tree/master/2 - C语言笔记)。
   - [embedded/01_C at master · kuraxii/embedded (github.com)](https://github.com/kuraxii/embedded/tree/master/01_C)。
   - [lh233/C-knowledge: 关于C语言的基础知识 (github.com)](https://github.com/lh233/C-knowledge)。
@@ -182,11 +213,8 @@ CS / C/C++ / 系统 / 综合
 
   
 
-  快速索引特性
-
-  - [mortennobel/cpp-cheatsheet: Modern C++ Cheatsheet (github.com)](https://github.com/mortennobel/cpp-cheatsheet)。
   - [chengxumiaodaren/cpp-learning (github.com)](https://github.com/chengxumiaodaren/cpp-learning)。
-  - [C++11/14/17/20/23新特性，哪些是必须掌握的，哪些基本用得不多？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/474664436/answer/3612037757)。
+- [C++11/14/17/20/23新特性，哪些是必须掌握的，哪些基本用得不多？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/474664436/answer/3612037757)。
 
 
 
@@ -219,21 +247,22 @@ CS / C/C++ / 系统 / 综合
 
   下面这些 C++ 笔记仓库可牛了（这些仓库均已离线到 `C++学习相关Github仓库收集` 文件夹下！）
 
-  - [linux-cpp-tutorial: 基于Linux的C++ 教程合集， 包括C++基础， C++服务器， C++专题 - Gitee.com](https://gitee.com/andy-upp/linux-cpp-tutorial/tree/master)。下文会多出引用这里的内容。
+  - [chengxumiaodaren/cpp-learning (github.com)](https://github.com/chengxumiaodaren/cpp-learning)。好内容非常多。
+  - [linux-cpp-tutorial: 基于Linux的C++ 教程合集， 包括C++基础， C++服务器， C++专题 - Gitee.com](https://gitee.com/andy-upp/linux-cpp-tutorial/tree/master)。
   - [czs108/Cpp-Primer-5th-Notes-CN: 📚 《C++ Primer中文版（第5版）》笔记 (github.com)](https://github.com/czs108/Cpp-Primer-5th-Notes-CN)。
   - [demon90s/CppStudy: My study notes for c/cpp language (github.com)](https://github.com/demon90s/CppStudy)。
   - [Light-City/CPlusPlusThings: C++那些事 (github.com)](https://github.com/Light-City/CPlusPlusThings)。
   - [0voice/introduce_c-cpp_manual: 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。 (github.com)](https://github.com/0voice/introduce_c-cpp_manual)。
   - [0voice/cpp_new_features: 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等 (github.com)](https://github.com/0voice/cpp_new_features)。
   - [FunctionDou/STL: STL源码分析 (github.com)](https://github.com/FunctionDou/STL)。
-
+  
   **C++ 精品专项**
-
+  
   - [Mq-b/ModernCpp-ConcurrentProgramming-Tutorial: 现代C++并发编程教程 (github.com)](https://github.com/Mq-b/ModernCpp-ConcurrentProgramming-Tutorial)。
   - [parallel101/course: 高性能并行编程与优化 - 课件 (github.com)](https://github.com/parallel101/course)。
-
   
-
+  
+  
   - [Mq-b/Modern-Cpp-templates-tutorial: 现代C++模板教程 (github.com)](https://github.com/Mq-b/Modern-Cpp-templates-tutorial)。
   - [wuye9036/CppTemplateTutorial: 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中) (github.com)](https://github.com/wuye9036/CppTemplateTutorial)。
 
@@ -253,7 +282,7 @@ CS / C/C++ / 系统 / 综合
 
 #### 不在上面仓库中的
 
-一些专项的、有意思的视频合集
+一些专项的、有意思的视频、文章合集
 
 
 
@@ -277,6 +306,14 @@ https://space.bilibili.com/263032155/channel/series
 
 
 
+- 编译原理 / Compiler Principles：[《编译原理》总集篇](https://www.criwits.top/page/20221116140525-w0au45l)
+
+- 操作系统 / Operating System：[《操作系统》总集篇](https://www.criwits.top/page/20230701100249-1fm004l)
+
+- 密码学基础 / Cryptology：[《密码学基础》总集篇](https://www.criwits.top/page/20230701100315-osil36j)
+
+- 计算机网络 / Computer Network：[《计算机网络》总集篇](https://www.criwits.top/page/20230701100327-0xryipa)
+
 ------
 
 
@@ -284,8 +321,6 @@ https://space.bilibili.com/263032155/channel/series
 ## 补充
 
 积累到一定程度，会专门开仓库的领域，或者补充到上面自己仓库的一些资料。
-
-
 
 
 
@@ -301,9 +336,15 @@ https://space.bilibili.com/263032155/channel/series
 
 ### linux 各方面
 
-- 韦东山的 v2.0 文档看到了截止到 23年中的，基本看完，总结到了 linux 仓库
+- 总结到了 linux 仓库，可以新开比如 3.1 这种分支文章来记录
 
-- 正点原子的 linux 文档，分应用和驱动，有一些和韦东山文档里的有所补充，个人认为可以快速过一过，新开 md 文档，把都有什么机制列一列（目录形式的），看懂了大概怎么用查清楚写上过程就行，这种都是要具体用时现查就行。
+  - 韦东山的 v2.0 文档看到了截止到 23年中的，基本看完，可以再快速过一遍。
+
+
+  - 正点原子的 linux 文档，分应用和驱动，有一些和韦东山文档里的有所补充，个人认为可以快速过一过，新开 md 文档，把都有什么机制列一列（目录形式的），看懂了大概怎么用查清楚写上过程就行，这种都是要具体用时现查就行。
+
+
+- linux 内核配置，移植，各个东西都从哪里找，uboot也一样。
 
 - github 各种仓库。
 
