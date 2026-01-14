@@ -6,13 +6,13 @@
 
 ## Misc
 
-计算机、数字世界的一些通识
+### 计算机、数字世界的一些通识
 
 [criwits/missing-web: 你缺失的那门计算机课（网页版）| Your Missing Semester of Using Computer (Web Version) (github.com)](https://github.com/criwits/missing-web)。
 
 
 
-计算机教育中缺失的一课
+### 计算机教育中缺失的一课
 
 [为什么大学c语言课不顺便教一下Linux，Makefile，git，gdb等配套工具链呢? - 知乎 (zhihu.com)](https://www.zhihu.com/question/576758408/answer/2830758012)。
 
@@ -32,7 +32,16 @@
 
 
 
-心理学、哲学上的 程序员 的学习分析
+### CS自学指南
+
+理工科学习的，看看顶尖高校怎么处理的，挺有意思，内容是真面向生产力的，在校的建议多看看。课程时间也确实比较长。
+
+- [CS自学指南](https://csdiy.wiki/)。
+- [一个仅供参考的CS学习规划 - CS自学指南](https://csdiy.wiki/CS学习规划/#_1)。
+
+
+
+### 心理学、哲学上的 程序员 的学习分析
 
 [你认为哪些领域的知识对程序员来说特别重要？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/5392270023/answer/46161501985)。
 
@@ -40,16 +49,23 @@
 
 ## 入门阶段 - 目录
 
+### 本科时期总结路线
+
 在本科毕业将近时，和实验室同届的大牛总结过嵌入式、计算机的学习路径清单：
+
 [【目录贴】总览软硬件规范化的意义和内容 - 欢迎来到 瞰百Staok](https://staok.github.io/总览软硬件规范化的意义和内容/#学习路径)。
 
 
 
+### 硕士时期总结路线
+
 在硕士（2020 - 2023）毕业将近时，个人总结过硕士几年的学习路径文章：
+
 [【目录贴】硕士实验室嵌入式学习路线参考清单 - 欢迎来到 瞰百Staok](https://staok.github.io/硕士实验室嵌入式学习路线参考清单/)。
 
 
-基本的嵌入式学习路线：
+
+### 基本的嵌入式学习路线
 
 基本路线为（排序没那么严格）：
 
@@ -72,6 +88,8 @@
 
 现在这个阶段的总结，即各种 CS 大类，即以下的内容。
 
+
+
 ------
 
 
@@ -82,26 +100,39 @@
 
 
 
-本人总结的一些 CS 相关的仓库
+### 本人总结的一些 CS 相关的仓库
 
 - C & MCU 编写规范
 
   [Staok/coding-style-and-more: C 编写规范和其他。永远地不定期更新。CC-BY-NC-SA 4.0。 (github.com)](https://github.com/Staok/coding-style-and-more)。
 
-- C++学习总结备查（C++语言特性、实用库）
 
-  [Staok/Cpp-Learning: C++学习总结备查 (github.com)](https://github.com/Staok/Cpp-Learning)。
+
+- C++学习总结备查
+
+  [Staok/Cpp-Learning: C++11 / 14 / 17 语法大总结；C++ 最佳实践规则规范大总结；C++ 实用库大收集；C++ debug / 动态 & 静态检查 技术 大整理。等等。](https://github.com/Staok/Cpp-Learning)
+
+
 
 - C-C++ 模板工程（cmake）
+
+  （待出）
 
 
 
 - C-C++-数据结构与算法简述和CS综合
+
+  [Staok/C-Cpp-data-struct-algo: C-C++-数据结构与算法相关优秀资料集子](https://github.com/Staok/C-Cpp-data-struct-algo)。
+
+
+
 - C-C++-设计模式综合
 
+  [Staok/C-Cpp-design-patterns: C/C++设计模式相关优秀资料集子](https://github.com/Staok/C-Cpp-design-patterns)。
 
 
-嵌入式 Linux 相关的仓库
+
+### 嵌入式 Linux 相关的仓库
 
 - Linux：ARM-Linux-Study
 
@@ -111,7 +142,7 @@
 
 
 
-硬件相关：
+### 硬件相关
 
 - 硬件：SCH & PCB 设计规范和 AD 的使用
 
@@ -120,20 +151,6 @@
 - FPGA：HDL & FPGA 学习和规范
 
   [Staok/HDL-FPGA-study-and-norms: HDL & FPGA 学习和规范。CC-BY-NC-SA 4.0。 (github.com)](https://github.com/Staok/HDL-FPGA-study-and-norms)。
-
-
-
-还需要慢慢补充进去的内容：
-
-
-
-```
-c++11，c++14，c++17 等 语言特性列出总结和学习
-整理各种实用库，以及 win 和 linux 上的使用（win 上即 cmake+pkgconfig，linux 上即 buildroot+cmake+pkgconfig），即下面的“实用库 / 实现”里面的
-数据结构与算法（主要是算法思路，比如使用动态规划的思路去设计算法程序）
-c++最佳实践经验，现代c++编程
-设计模式（如敏捷开发这一大课题（可看其百度百科），以及其下的各种方法，如TDD FDD等。其它还有任务状态设计模式，信号槽模式等等，适用于不同场景）
-```
 
 
 
@@ -298,14 +315,6 @@ https://space.bilibili.com/266979612/channel/series
 
 
 
-现代C++项目实战
-
-高性能并行编程与优化
-
-https://space.bilibili.com/263032155/channel/series
-
-
-
 - 编译原理 / Compiler Principles：[《编译原理》总集篇](https://www.criwits.top/page/20221116140525-w0au45l)
 
 - 操作系统 / Operating System：[《操作系统》总集篇](https://www.criwits.top/page/20230701100249-1fm004l)
@@ -326,8 +335,9 @@ https://space.bilibili.com/263032155/channel/series
 
 ### buildroot
 
-- buildroot 官方手册
-- 正点原子翻译的
+- buildroot 官方手册，[The Buildroot user manual](https://buildroot.org/downloads/manual/manual.html)。
+- 自己 2025.05 比较新的 用 AI 大模型 翻译的：[Staok/BuildrootManualChinese: Buildroot 2025.05 手册 - 中文版（AI高质量翻译）](https://github.com/Staok/BuildrootManualChinese)。
+- 正点原子翻译的。到其官网上找即可。
 - [buildroot编译框架_Once-Day的博客-CSDN博客](https://blog.csdn.net/once_day/category_12515863.html)。
 - tips，查看所有配置项，可以选择 deconfig 之后，查看 生成的 config 文件 里面的所有项
 - 按照纸上记录的 过程，上手验证一遍，记下主要步骤就行。
@@ -367,7 +377,11 @@ https://space.bilibili.com/263032155/channel/series
 
     
 
+## 八股 / 面试
 
+
+
+[apachecn/Interview: Interview = 简历指南 + 算法题 + 八股文 + 源码分析 (github.com)](https://github.com/apachecn/Interview)。
 
 
 
